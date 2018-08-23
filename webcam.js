@@ -7,7 +7,7 @@
 // Licensed under the MIT License
 
 
-//ssssssssssssssssssssssssssssssssssssssssssssssss
+//sssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 (function(window) {
 var _userMedia;
